@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.fastScrollSensitivity": 10,
+    "editor.mouseWheelScrollSensitivity": 2,
+    "editor.smoothScrolling": false
+}

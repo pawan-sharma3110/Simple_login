@@ -1,0 +1,55 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    /* background-color: #dc39f569; */
+}
+
+* {
+    box-sizing: border-box;
+    line-height: 29px;
+}
+
+/* Nav Bar*/
+.nav-togel {
+    color: #0d6efd;
+}
+
+
+/* MAIN Container */
+.main-heading {}
+
+h1 {
+    padding: 40px ;
+    padding-left: 30%;
+}
+
+.container_main {
+    width: 500px;
+    height: 80vh;
+    background-color: rgb(151, 33, 33);
+    margin: 10px auto;
+    justify-content: center
+}
+
+.input_field {
+    padding: 0 70px;
+    font-weight: 700;
+}
+
+.my-field {
+    width: 80%;
+
+}
+
+.form_field {
+    border: 0;
+    border-bottom: 1px solid #888888;
+}
+
+.login-btn {
+    width: 80%;
+    border-radius: 50px;
+    margin: 10px auto;
+}
